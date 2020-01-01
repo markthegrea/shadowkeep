@@ -1,5 +1,3 @@
-import { terrain } from 'data.js';
-
 class world {
 
     constructor(name) {
